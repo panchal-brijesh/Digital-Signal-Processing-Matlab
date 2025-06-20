@@ -29,6 +29,34 @@ Key objectives include:
 
 ---
 
+## Experimental Highlights
+
+- FFT and IFFT tested for speed and accuracy.
+- Effects of different filter lengths on signal clarity.
+- Modulation frequency spacing tested to avoid overlapping bands.
+- Reconstructed signals compared to original low-pass filtered versions.
+- Optional QAM and SSB modulation included for advanced testing.
+
+--
+
+## Observations & Results
+
+- Reconstruction accuracy improves with longer filters.
+- Overlapping frequency bands cause audible distortion.
+- FFT drastically reduces computation time vs time-domain convolution.
+- Sound quality of recovered audio was tested by listening experiments.
+
+--
+
+## Key Learnings
+
+- Efficient signal transmission requires careful frequency planning.
+- Fast convolution using FFT is both time-saving and accurate.
+- Filter length and window functions affect signal quality significantly.
+- Modular programming enhances testability and debugging.
+
+--
+
 ## Project Structure
 
 ```plaintext
