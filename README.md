@@ -37,7 +37,7 @@ Key objectives include:
 - Reconstructed signals compared to original low-pass filtered versions.
 - Optional QAM and SSB modulation included for advanced testing.
 
---
+---
 
 ## Observations & Results
 
@@ -46,7 +46,7 @@ Key objectives include:
 - FFT drastically reduces computation time vs time-domain convolution.
 - Sound quality of recovered audio was tested by listening experiments.
 
---
+---
 
 ## Key Learnings
 
@@ -55,7 +55,7 @@ Key objectives include:
 - Filter length and window functions affect signal quality significantly.
 - Modular programming enhances testability and debugging.
 
---
+---
 
 ## Project Structure
 
