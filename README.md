@@ -54,10 +54,10 @@ Key objectives include:
 ├── FFTplot.m
 ├── iFFT.m
 ├── lowpassfilter.m
-
+```
 ---
 
-## 📝 Project Summary
+## Project Summary
 
 In this project, digital signal processing for the transmission of two signals over a common medium was comprehensively investigated. The MATLAB implementation included low-pass filtering, modulation, and demodulation of the signals. It was demonstrated that the choice of filter parameters, particularly the use of the Hamming window, significantly reduces rippling effects.
 
