@@ -25,7 +25,7 @@ Key objectives include:
 
 - **Software:** MATLAB 
 - **Languages:** MATLAB `.mlx` Live Scripts and `.m` functions
-- **Audio Files:** `.mp3` format (e.g., `orchestra1.mp3`, `Song2.mp3`)
+- **Audio Files:** `.mp3`format (e.g., `orchestra1.mp3`, `Song2.mp3`)
 
 ---
 
