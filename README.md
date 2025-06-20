@@ -4,7 +4,7 @@
 
 - **Matriculation Number:** 221607  
 - **Course:** Master of Mechatronics and Robotics  
-- **Semester:** Wintersemester 2024  
+- **Semester:** Wintersemester 2024/25 
 - **Subject:** Digital Signal Processing  
 - **Supervisor:** Prof. Dr.-Volker Stahl (Heilbronn University)
 
