@@ -4,9 +4,9 @@
 
 - **Matriculation Number:** 221607  
 - **Course:** Master of Mechatronics and Robotics  
-- **Semester:** Sommersemester 2024  
+- **Semester:** Wintersemester 2024  
 - **Subject:** Digital Signal Processing  
-- **Supervisor:** Prof. Dr.-Ing. Nicolaj Stache (Heilbronn University)
+- **Supervisor:** Prof. Dr.-Volker Stahl (Heilbronn University)
 
 ---
 
